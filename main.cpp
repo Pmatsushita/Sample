@@ -7,7 +7,7 @@ int add(int a, int b)
 
 void printMyName(char* name)
 {
-    printf("My mane is %s\n", name);
+    printf("Hi ! My mane is %s\n", name);
 }
 
 int main(int argc, char** argv)
